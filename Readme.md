@@ -1,5 +1,5 @@
 # TwiDIO API
-
+# por Nathally Souza - https://github.com/nathyts
 #### API desenvolvida para o projeto TwiDIO
 
 ### Arquitetura
